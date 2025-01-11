@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="io.mraa.upm.upm_adafruitss" type="repository">
+    <properties maven-id="io.mraa.upm:upm_adafruitss:1.7.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/io/mraa/upm/upm_adafruitss/1.7.1/upm_adafruitss-1.7.1.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/mraa/mraa/2.0.0/mraa-2.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
